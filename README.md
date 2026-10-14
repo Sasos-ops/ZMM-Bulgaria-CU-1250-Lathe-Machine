@@ -1,8 +1,9 @@
-# Lathe-Machine-Chieftain-1860
-Central document repository for the Chieftain 1860 Lathe Machine, including the operating procedure, risk assessment, preventive maintenance schedule and manufacturer manual.
+# ZMM-Bulgaria-CU-1250-Lathe-Machine
+Centralized repository for all ZMM Bulgaria CU 1250 Lathe Machine documentation, including manuals, maintenance records, inspections, risk assessments, certificates, and operational resources.
 
 ## Documents
-- [01 Operating Procedure](01_Operating_Procedure_Chieftain_1860_Lathe_Machine.pdf)
-- [02 Risk Assessment](02_Risk_Assessment_Chieftain_1860_Lathe_Machine.pdf)
-- [03 Preventive Maintenance Schedule](03_Preventive_Maintenance_Schedule_Chieftain_1860_Lathe_Machine.pdf)
-- [04 Manufacturer Manual (Coventry Pro Lathe)](04_Manufacturer_Manual_Coventry_Pro_Lathe.pdf)
+- [01 Lathe Machine Manual](01_Lathe_Machine_Manual.pdf)
+- [02 Operating Procedure](02_Operating_Procedure.pdf)
+- [03 Risk Assessment](03_Risk_Assessment.pdf)
+- [04 Maintenance Schedule](04_Maintenance_Schedule.pdf)
+- [05 Lathe Machine Picture](05_Lathe_machine_pic.png)
